@@ -1,0 +1,8 @@
+{
+    "id": 527,
+    "username": "jribeiro",
+    "email": "jose-pedro61@example.net",
+    "phone": "+55 23 9 8484 7308",
+    "address": "Distrito de Monteiro, 70\nNovo Santa Cecilia\n88368599 Andrade / PI",
+    "cpf": "139.802.745-60"
+}
