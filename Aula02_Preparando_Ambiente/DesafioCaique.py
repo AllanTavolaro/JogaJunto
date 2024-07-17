@@ -1,0 +1,9 @@
+#Pesquisa no ChatGpt sobre oque é Tracking é TRACKING - COMMIT - BRANCHES - MERGE#
+
+print("""Tracking é um ramo local de rastreamento, que é vinculado a um ramo remoto especifico, Quando você clona um repositório Git, o Git configura automaticamente um ramo de rastreamento para você. Esse ramo local rastreia o ramo remoto correspondente, de modo que você pode enviar (push) e receber (pull) alterações para o repositório remoto sem precisar especificar o ramo remoto explicitamente todas as vezes. 
+
+Commit é uma operação no Git que salva permanentemente as alterações feitas em arquivos no seu repositório. Cada commit possui uma mensagem que descreve as alterações feitas naquele conjunto de alterações. Os commits são a unidade básica de trabalho no Git e ajudam a manter um histórico detalhado das mudanças feitas ao longo do tempo. 
+
+Branches permitem que você trabalhe em diferentes versões do seu projeto simultaneamente. Eles são usados para desenvolver novos recursos, corrigir bugs, experimentar ideias sem afetar o ramo principal (normalmente chamado de master ou main). Cada ramo representa uma linha de desenvolvimento separada com seu próprio histórico de commits. Os ramos são úteis para organizar o trabalho em equipe, permitindo que várias pessoas trabalhem em diferentes partes do projeto ao mesmo tempo sem interferir umas com as outras. 
+      
+A Merge é o processo de combinar as alterações de um ramo para outro. Por exemplo, você pode mesclar um ramo de desenvolvimento de uma nova funcionalidade de volta para o ramo principal (master ou main) quando o desenvolvimento estiver concluído e as alterações estiverem prontas para serem incorporadas ao projeto principal. O Git tenta combinar automaticamente as alterações, mas pode haver conflitos que exigem intervenção manual para resolver. A mesclagem é uma operação importante para integrar o trabalho feito em diferentes ramos e manter a consistência do projeto.""")
